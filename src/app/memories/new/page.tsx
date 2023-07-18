@@ -19,7 +19,7 @@ export default function NewMemory() {
             className="flex cursor-pointer items-center gap-1.5 text-sm text-gray-200 hover:text-gray-100"
           >
             <Camera className="h-4 w-4" />
-            Upload File
+            Add a cover video or picture
           </label>
 
           <label
